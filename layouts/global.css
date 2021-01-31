@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Dosis";
+  src: local("Dosis"),
+    url(~assets/fonts/Dosis-Light.ttf) format("truetype"),
+    url(~assets/fonts/Dosis-Medium.ttf) format("truetype");
+}
+
+html {
+  font-family: "Oxygen";
+}
